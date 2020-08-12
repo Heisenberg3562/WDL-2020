@@ -17,6 +17,7 @@ To view individual pages click on the respective Link.
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Omkar_Experiment_1.pdf">18CO20 Omkar Babrekar.pdf</a>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/adeeba_exp_1.pdf">18CO01 Adeeba Ansari.pdf</a>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Aman_Experiment_1.pdf">18CO27 Aman Kazi.pdf</a>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Ibrahim_Experiment_1.pdf">18CO24 Ibrahim Sarguroh.pdf</a>
 
 ### > Experiment 2 :
 
@@ -29,6 +30,9 @@ To view individual pages click on the respective Link.
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/event-page.html">Event - Page</a> Contributor - <b>Aman Kazi</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/faq.html">Faq - Page</a> Contributor - <b>Aman Kazi</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/login.html">Login - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/about-us.html">About us - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/gallery.html">Gallery - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/features.html">Features - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
 
 ### > Experiment 3 :
 
@@ -41,6 +45,9 @@ To view individual pages click on the respective Link.
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/event-page.html">Event - Page</a> Contributor - <b>Aman Kazi</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/faq.html">Faq - Page</a> Contributor - <b>Aman Kazi</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/login.html">Login - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/about-us.html">About us - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/gallery.html">Gallery - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/features.html">Features - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
 
 ## Note:
 
