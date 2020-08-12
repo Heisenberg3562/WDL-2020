@@ -3,6 +3,7 @@
 
 ## Term work Assessment:
 
+Click to view the directory in the current Repository.
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_1">Experiment 1 - Installation and Setting of LAMP / WAMP / XAMP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_2">Experiment 2 - Create Simple web page using HTML5</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_3">Experiment 3 - Design and Implement web page using CSS3 and HTML5</a>
@@ -13,8 +14,9 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 1 :
 
-- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Omkar_Experiment_1.pdf">18CO20 Omkar Babrekar</a>
-- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/adeeba_exp_1.pdf">18CO01 Adeeba Ansari</a>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Omkar_Experiment_1.pdf">18CO20 Omkar Babrekar.pdf</a>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/adeeba_exp_1.pdf">18CO01 Adeeba Ansari.pdf</a>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_1/Aman_Experiment_1.pdf">18CO27 Aman Kazi.pdf</a>
 
 ### > Experiment 2 :
 
@@ -24,6 +26,9 @@ To view individual pages click on the respective Link.
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/contact-us.html">Contact Us - Page</a> Contributor - <b>Adeeba Ansari</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/service-page.html">Service - Page</a> Contributor - <b>Adeeba Ansari</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/enroll-page.html">Enroll - Page</a> Contributor - <b>Adeeba Ansari</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/event-page.html">Event - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/faq.html">Faq - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_2/login.html">Login - Page</a> Contributor - <b>Aman Kazi</b>
 
 ### > Experiment 3 :
 
@@ -33,6 +38,9 @@ To view individual pages click on the respective Link.
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/contact-us.html">Contact Us - Page</a> Contributor - <b>Adeeba Ansari</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/service-page.html">Service - Page</a> Contributor - <b>Adeeba Ansari</b>
 - <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/enroll-page.html">Enroll - Page</a> Contributor - <b>Adeeba Ansari</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/event-page.html">Event - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/faq.html">Faq - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://heisenberg3562.github.io/WDL-2020/Experiment_3/login.html">Login - Page</a> Contributor - <b>Aman Kazi</b>
 
 ## Note:
 
