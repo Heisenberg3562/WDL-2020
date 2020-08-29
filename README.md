@@ -57,6 +57,8 @@ To know Individual Contribution of the project you can visit the branches via be
 - Branch : <a href="https://github.com/Heisenberg3562/WDL-2020/tree/aman">aman</a>
 - Branch : <a href="https://github.com/Heisenberg3562/WDL-2020/tree/Ibrahim">Ibrahim</a>
 
+You can also view the Network Graph <a href="https://github.com/Heisenberg3562/WDL-2020/network">HERE</a>
+
 ## CONTRIBUTORS:
 
 - **Omkar Babrekar**<br>
