@@ -62,13 +62,13 @@ You can also view the Network Graph <a href="https://github.com/Heisenberg3562/W
 ## CONTRIBUTORS:
 
 - **Omkar Babrekar**<br>
-[-] GitHub : https://github.com/Heisenberg3562
+[-] GitHub : <a href="https://github.com/Heisenberg3562">https://github.com/Heisenberg3562</a>
 
 - **Adeeba Ansari**<br>
-[-] GitHub : https://github.com/adeeba16
+[-] GitHub : <a href="https://github.com/adeeba16">https://github.com/adeeba16</a>
 
 - **Aman Kazi**<br>
-[-] GitHub : https://github.com/aman1319kazi
+[-] GitHub : <a href="https://github.com/aman1319kazi">https://github.com/aman1319kazi</a>
 
 - **Ibrahim Sarguroh**<br>
-[-] GitHub : https://github.com/ibrahimsar24
+[-] GitHub : <a href="https://github.com/ibrahimsar24">https://github.com/ibrahimsar24</a>
