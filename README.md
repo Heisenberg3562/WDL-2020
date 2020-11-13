@@ -7,6 +7,12 @@ Click to view the directory in the current Repository.
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_1">Experiment 1 - Installation and Setting of LAMP / WAMP / XAMP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_2">Experiment 2 - Create Simple web page using HTML5</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_3">Experiment 3 - Design and Implement web page using CSS3 and HTML5</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_4">Experiment 4 - Form Design and Client Side Validation using : a. Javascript and HTML5 b. Javascript and JQuery</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_5">Experiment 5 - Develop simple web page using PHP</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_6">Experiment 6 - Develop interactive web pages using PHP with database connectivity MYSQL</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_7">Experiment 7 - Develop XML web page using DTD, XSL</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_9">Experiment 9 - Hosting the website with Domain Registration Process.</a>
+- <a href="https://github.com/Heisenberg3562/Laravel-Web4Hub">Experiment 10 - Design a Web application using Laravel Framework</a>
 
 ## Detailed View:
 
@@ -97,6 +103,21 @@ To view individual pages click on the respective Link.
 - <a href="https://wdl.web4hub.ml/about-us.php">About us - Page</a>
 - <a href="https://wdl.web4hub.ml/gallery.php">Gallery - Page</a>
 - <a href="https://wdl.web4hub.ml/features.php">Features - Page</a>
+
+### > Experiment 7 :
+
+- <a href="https://wdl.web4hub.ml/loadxml.html">Marksheet</a>
+
+### > Experiment 9 :
+
+- <a href="https://wdl.web4hub.ml/18CO20_Experiment_9.docx">18CO20 Omkar Babrekar Experiment 9.docx</a>
+- <a href="https://wdl.web4hub.ml/18CO01_Experiment_9.docx">18CO01 Adeeba Ansari Experiment 9.docx</a>
+- <a href="https://wdl.web4hub.ml/18CO27_Experiment_9.docx">18CO27 Aman Kazi Experiment 9.docx</a>
+- <a href="https://wdl.web4hub.ml/18CO24_Experiment_9.docx">18CO24 Ibrahim Sarguroh Experiment 9.docx</a>
+
+### > Experiment 10 :
+
+- For complete details on Experiment 10 click <a href="https://github.com/Heisenberg3562/Laravel-Web4Hub">here</a>
 
 ## Note:
 
