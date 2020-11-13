@@ -81,6 +81,22 @@ To view individual pages click on the respective Link.
 - <a href="https://wdl.web4hub.ml/exp5/gallery.php">Gallery - Page</a>
 - <a href="https://wdl.web4hub.ml/exp5/features.php">Features - Page</a>
 
+### > Experiment 6 :
+
+- <a href="https://wdl.web4hub.ml/">Home - Page</a>
+- <a href="https://wdl.web4hub.ml/registration.php">Registraton - Page</a> Contributor - <b>Ibrahim Sarguroh</b>
+- <a href="https://wdl.web4hub.ml/all-events.php">All Events - Page</a> Contributor - <b>Omkar Babrekar</b>
+- <a href="https://wdl.web4hub.ml/contact-us.php">Contact Us - Page</a>
+- <a href="https://wdl.web4hub.ml/service-page.php">Service - Page</a>
+- <a href="https://wdl.web4hub.ml/enroll-page.php">Enroll - Page</a>
+- <a href="https://wdl.web4hub.ml/create-event.php">Create Event - Page</a> Contributor - <b>Adeeba Ansari</b>
+- <a href="https://wdl.web4hub.ml/edit-event.php">Edit Event - Page</a>
+- <a href="https://wdl.web4hub.ml/event-page.php">Event - Page</a>
+- <a href="https://wdl.web4hub.ml/faq.php">Faq - Page</a>
+- <a href="https://wdl.web4hub.ml/login.php">Login - Page</a> Contributor - <b>Aman Kazi</b>
+- <a href="https://wdl.web4hub.ml/about-us.php">About us - Page</a>
+- <a href="https://wdl.web4hub.ml/gallery.php">Gallery - Page</a>
+- <a href="https://wdl.web4hub.ml/features.php">Features - Page</a>
 
 ## Note:
 
