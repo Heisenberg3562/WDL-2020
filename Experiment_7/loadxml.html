@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Semester Marksheet</title>
+    <meta name="description" content="Event Management made easy ...">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
+    <script language="JavaScript" type="text/javascript">
+    function loadXMLDOC(dname)
+    {
+        if(window.XMLHttpRequest)
+        {
+            xhttp=new XMLHttpRequest();
+        }
+        else
+        {
+            xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xhttp.open("GET",dname,false);
+        xhttp.send();
+        return xhttp.responseXML;
+    }
+
+    function loadMarksheetXML(sname,mname,sno){
+        xmlDoc=loadXMLDOC(mname);
+        x=xmlDoc.getElementsByTagName("course");
+
+        var divText="<table width='70%'><tr>"+
+        "<th colspan=9>Name : "+sname+"</th></tr>"+
+        "<tr><th colspan=9>Exam :  SE (Sem IV) CBCGS</th></tr>"+
+        "<tr><th colspan=9>Branch :  Computer Engg</th></tr>"+
+        "<tr><th colspan=9>HELD in :  May 2020(REGULAR)</th></tr>"+
+        "<tr><th colspan=9>Seat no :  COCB00"+sno+"</th></tr>"+
+        "<tr></tr><tr><th>Course ID</th><th>Course Title</th>"+
+        "<th>Course Credits</th><th>ESE / OR / PR</th>"+
+        "<th>TW</th><th>Overall Earned</th>"+
+        "<th>CXGP</th></tr>";
+
+        for(i=0;i<x.length-2;i++){
+
+            courseid=xmlDoc.getElementsByTagName("courseid")[i].childNodes[0].nodeValue;
+            title=xmlDoc.getElementsByTagName("title")[i].childNodes[0].nodeValue;
+            CRD=xmlDoc.getElementsByTagName("CRD")[i].childNodes[0].nodeValue;
+            EDORPR=xmlDoc.getElementsByTagName("EDORPR")[i].childNodes[0].nodeValue;
+            TW=xmlDoc.getElementsByTagName("TW")[i].childNodes[0].nodeValue;
+            OE=xmlDoc.getElementsByTagName("OE")[i].childNodes[0].nodeValue;
+            total=xmlDoc.getElementsByTagName("total")[i].childNodes[0].nodeValue;
+
+            divText+="<tr><td>"+courseid+"</td><td>"+title+"</td><td>"+CRD+"</td><td>"+
+                    EDORPR+"</td><td>"+TW+"</td><td>"+OE+"</td><td>"+total+"</td></tr>";
+        }
+        
+            courseid=xmlDoc.getElementsByTagName("courseid")[i].childNodes[0].nodeValue;
+            title=xmlDoc.getElementsByTagName("title")[i].childNodes[0].nodeValue;
+            CRD=xmlDoc.getElementsByTagName("CRD")[i].childNodes[0].nodeValue;
+            EDORPR=xmlDoc.getElementsByTagName("EDORPR")[i].childNodes[0].nodeValue;
+            TW=xmlDoc.getElementsByTagName("TW")[i].childNodes[0].nodeValue;
+            OE=xmlDoc.getElementsByTagName("OE")[i].childNodes[0].nodeValue;
+            total=xmlDoc.getElementsByTagName("total")[i].childNodes[0].nodeValue;
+
+            divText+="<tr><td>"+courseid+"</td><td>"+title+"</td><td>"+CRD+"</td><td>"+
+                    EDORPR+"</td><td>"+TW+"</td><td>"+OE+"</td><td>"+total+"</td></tr>";
+            
+            courseid=xmlDoc.getElementsByTagName("courseid")[i+1].childNodes[0].nodeValue;
+            title=xmlDoc.getElementsByTagName("title")[i+1].childNodes[0].nodeValue;
+            CRD=xmlDoc.getElementsByTagName("CRD")[i+1].childNodes[0].nodeValue;
+            EDORPR=xmlDoc.getElementsByTagName("EDORPR")[i+1].childNodes[0].nodeValue;
+            TW=xmlDoc.getElementsByTagName("TW")[i+1].childNodes[0].nodeValue;
+            OE=xmlDoc.getElementsByTagName("OE")[i+1].childNodes[0].nodeValue;
+            total=xmlDoc.getElementsByTagName("total")[i+1].childNodes[0].nodeValue;
+            
+            divText+="<tr><td colspan=2>"+courseid+"</td><td colspan=2>"+title+
+            "</td><td colspan=2>"+CRD+"</td><td>"+EDORPR+"</td>";
+
+        divText+="</table>";
+        document.getElementById("marksheet").innerHTML=divText;
+        document.getElementById("watermark").style.display = "block";
+    }    
+    </script>
+
+<style type="text/css" media="screen">
+    #marksheet table, table td, table th{
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        margin: 0 auto;
+        margin-top: 1%;
+        zoom: 89%;
+        text-align: center;
+    }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark clean-navbar">
+    <div class="container"><a class="navbar-brand logo" href="#">Web4Hub</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse"
+             id="navcol-1">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item item" role="presentation"><a class="nav-link active" href="index.php">HOME</a></li>
+                <li class="nav-item item" role="presentation"><a class="nav-link" href="features.php">FEATURES</a></li>
+                <li class="nav-item item" role="presentation"><a class="nav-link" href="about-us.php">ABOUT</a></li>
+                <li class="nav-item item" role="presentation"><a class="nav-link" href="contact-us.php">CONTACT US</a></li>
+                <li class="nav-item item" role="presentation"><a class="btn btn-primary" role="button" href="login.php">Login</a></li>
+            </ul>
+            <a class="btn btn-primary" role="button" href="registration.php">Sign up</a>
+        </div>
+    </div>
+</nav>
+<main class="page contact-us-page">
+    <section class="clean-block clean-form dark">
+        <div class="container">
+            <div class="block-heading">
+                <h2 class="text-info">Marksheet</h2>
+
+            </div>
+
+            <div class="container">
+                <p align="center">
+                    <input type="submit" value="Omkar Result" onclick="loadMarksheetXML('Omkar Babrekar','omkarmarksheet.xml','20')" />
+                    <input type="submit" value="Adeeba Result" onclick="loadMarksheetXML('Adeeba Ansari','adeebamarksheet.xml','01')" />
+                    <input type="submit" value="Aman Result" onclick="loadMarksheetXML('Aman Kazi','amanmarksheet.xml','27')" />
+                    <input type="submit" value="Ibrahim Result" onclick="loadMarksheetXML('Ibrahim Sarguroh','ibrahimmarksheet.xml','24')" />
+                </p>
+                <div id="marksheet" class="block-content">
+                </div>
+            </div>
+
+        </div>
+    </section>
+</main>
+
+
+<footer class="page-footer dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-xl-6">
+                <h5>Get started</h5>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Sign up</a></li>
+                    <li><a href="#">Sign In</a></li>
+                </ul>
+            </div>
+            <div class="col-sm-3 col-xl-5 offset-xl-0">
+                <h5>About us</h5>
+                <ul>
+                    <li><a href="#">Information</a></li>
+                    <li><a href="#">Contact us</a></li>
+                    <li><a href="#">FAQ</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <p>© 2020 Web4Hub</p>
+    </div>
+</footer>
+</body>
+</html>

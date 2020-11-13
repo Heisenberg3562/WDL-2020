@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE marksheet SYSTEM "marksheet.dtd">
+<marksheet>
+	<course>
+		<courseid>CSC401</courseid>
+		<title>APPLIED MATHEMATICS - IV</title>
+		<CRD>5</CRD>
+		<EDORPR>P</EDORPR>
+		<TW>C</TW>
+		<OE>4</OE>
+		<total>20</total>
+	</course>
+
+	<course>
+		<courseid>CSC402</courseid>
+		<title>ANALYSIS OF ALGORITHM</title>
+		<CRD>5</CRD>
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>40</total>
+	</course>
+
+	<course>
+		<courseid>CSC403</courseid>
+		<title>COMPUTER ORGANIZATION AND ARCHITECTURE</title>
+		<CRD>4</CRD>
+		<EDORPR>C</EDORPR>
+		<TW>B</TW>
+		<OE>4</OE>
+		<total>28</total>
+	</course>
+
+	<course>
+		<courseid>CSC404</courseid>
+		<title>COMPUTER GRAPHICS</title>
+		<CRD>4</CRD>
+		<EDORPR>A</EDORPR>
+		<TW>A</TW>
+		<OE>9</OE>
+		<total>36</total>
+	</course>
+
+	<course>
+		<courseid>CSC405</courseid>
+		<title>OPERATING SYSTEM</title>
+		<CRD>4</CRD>
+		<EDORPR>B</EDORPR>
+		<TW>C</TW>
+		<OE>7</OE>
+		<total>28</total>
+	</course>
+
+	<course>
+		<courseid>CSL401</courseid>
+		<title>ANALYSIS OF ALGORITHM LAB</title>
+		<CRD>1</CRD>
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL402</courseid>
+		<title>COMPUTER GRAPHICS LAB</title>
+		<CRD>1</CRD>
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL403</courseid>
+		<title>PROCESSOR ARCHITECTURE LAB</title>
+		<CRD>1</CRD>
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>10</total>
+	</course>
+	
+	
+	<course>
+		<courseid>CSL404</courseid>
+		<title>OPERATING SYSTEM LAB</title>
+		<CRD>1</CRD>
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>10</total>
+	</course>
+	
+	<course>
+		<courseid>CSL405</courseid>
+		<title>OPEN SOURCE TECH LAB</title>
+		<CRD>2</CRD>TW
+		<EDORPR>O</EDORPR>
+		<TW>O</TW>
+		<OE>10</OE>
+		<total>20</total>
+	</course>
+	<course>
+		<courseid id="1"> </courseid>
+		<title> TOTAL</title>
+		<CRD>27</CRD>
+		<EDORPR> </EDORPR>
+		<TW> </TW>
+		<OE>27</OE>
+		<total>191</total>
+	</course>
+	<course>
+		<courseid >REMARK SUCCESSFULL</courseid>
+		<title> SGPI 7.07</title>
+		<CRD>CGPI --</CRD>
+		<EDORPR>RESULT DECLARED 25 AUGUST 2020</EDORPR>
+		<TW> </TW>
+		<OE>27</OE>
+		<total>191</total>
+	</course>
+	
+	
+</marksheet>
+
