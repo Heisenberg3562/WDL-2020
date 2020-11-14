@@ -108,6 +108,23 @@ To view individual pages click on the respective Link.
 
 - <a href="https://wdl.web4hub.ml/loadxml.html">Marksheet</a>
 
+### > Experiment 8 :
+
+- <a href="https://wdl.web4hub.ml/">Home - Page</a>
+- <a href="https://wdl.web4hub.ml/registration.php">Registraton - Page</a>
+- <a href="https://wdl.web4hub.ml/all-events.php">All Events - Page</a> Contributor - <b>Adeeba Ansari</b>
+- <a href="https://wdl.web4hub.ml/contact-us.php">Contact Us - Page</a>
+- <a href="https://wdl.web4hub.ml/service-page.php">Service - Page</a>
+- <a href="https://wdl.web4hub.ml/enroll-page.php">Enroll - Page</a>
+- <a href="https://wdl.web4hub.ml/create-event.php">Create Event - Page</a>
+- <a href="https://wdl.web4hub.ml/edit-event.php">Edit Event - Page</a>
+- <a href="https://wdl.web4hub.ml/event-page.php">Event - Page</a>
+- <a href="https://wdl.web4hub.ml/faq.php">Faq - Page</a>
+- <a href="https://wdl.web4hub.ml/login.php">Login - Page</a>
+- <a href="https://wdl.web4hub.ml/about-us.php">About us - Page</a>
+- <a href="https://wdl.web4hub.ml/gallery.php">Gallery - Page</a>
+- <a href="https://wdl.web4hub.ml/features.php">Features - Page</a>
+
 ### > Experiment 9 :
 
 - <a href="https://wdl.web4hub.ml/18CO20_Experiment_9.docx">18CO20 Omkar Babrekar Experiment 9.docx</a>
