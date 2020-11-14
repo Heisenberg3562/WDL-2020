@@ -11,6 +11,7 @@ Click to view the directory in the current Repository.
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_5">Experiment 5 - Develop simple web page using PHP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_6">Experiment 6 - Develop interactive web pages using PHP with database connectivity MYSQL</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_7">Experiment 7 - Develop XML web page using DTD, XSL</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_8">Experiment 8 - Implement a webpage using Ajax and PHP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_9">Experiment 9 - Hosting the website with Domain Registration Process.</a>
 - <a href="https://github.com/Heisenberg3562/Laravel-Web4Hub">Experiment 10 - Design a Web application using Laravel Framework</a>
 
