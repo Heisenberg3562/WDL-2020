@@ -17,7 +17,7 @@ Click to view the directory in the current Repository.
 
 ## Detailed View:
 
-To view individual pages click on the respective Link.
+To view individual pages hosted on the website click on the respective Link.
 
 ### > Experiment 1 :
 
@@ -107,24 +107,14 @@ To view individual pages click on the respective Link.
 
 ### > Experiment 7 :
 
-- <a href="https://wdl.web4hub.ml/loadxml.html">Marksheet</a>
+- <a href="https://wdl.web4hub.ml/loadxml.html">Marksheet Page</a> Contributor - <b>All Members</b>
 
 ### > Experiment 8 :
 
 - <a href="https://wdl.web4hub.ml/">Home - Page</a>
-- <a href="https://wdl.web4hub.ml/registration.php">Registraton - Page</a>
 - <a href="https://wdl.web4hub.ml/all-events.php">All Events - Page</a> Contributor - <b>Adeeba Ansari</b>
-- <a href="https://wdl.web4hub.ml/contact-us.php">Contact Us - Page</a>
-- <a href="https://wdl.web4hub.ml/service-page.php">Service - Page</a>
-- <a href="https://wdl.web4hub.ml/enroll-page.php">Enroll - Page</a>
-- <a href="https://wdl.web4hub.ml/create-event.php">Create Event - Page</a>
-- <a href="https://wdl.web4hub.ml/edit-event.php">Edit Event - Page</a>
-- <a href="https://wdl.web4hub.ml/event-page.php">Event - Page</a>
-- <a href="https://wdl.web4hub.ml/faq.php">Faq - Page</a>
-- <a href="https://wdl.web4hub.ml/login.php">Login - Page</a>
-- <a href="https://wdl.web4hub.ml/about-us.php">About us - Page</a>
-- <a href="https://wdl.web4hub.ml/gallery.php">Gallery - Page</a>
-- <a href="https://wdl.web4hub.ml/features.php">Features - Page</a>
+- <a href="https://wdl.web4hub.ml/admin.php">Admin - Page</a> Contributor - <b>Omkar Babrekar</b>
+- <a href="https://wdl.web4hub.ml/login.php">Login - Page</a> Contributor - <b>Aman Kazi</b>
 
 ### > Experiment 9 :
 
@@ -160,3 +150,7 @@ You can also view the Network Graph <a href="https://github.com/Heisenberg3562/W
 
 - **Ibrahim Sarguroh**<br>
 [-] GitHub : <a href="https://github.com/ibrahimsar24">https://github.com/ibrahimsar24</a>
+
+## Bugs and Feedback
+
+For bugs, questions and discussions, please use the GitHub [Issues](https://github.com/Heisenberg3562/WDL-2020/issues).
