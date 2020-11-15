@@ -46,48 +46,7 @@ include 'navigation.php';
                         <div class="card-header">Users</div>
 
                         <div class="card-body">
-<!--                            <table class="table">-->
-<!--                                <thead>-->
-<!--                                <tr>-->
-<!--                                    <th>Title</th>-->
-<!--                                    <th>Body</th>-->
-<!--                                    <th>Fees</th>-->
-<!--                                    <th>Action</th>-->
-<!--                                </tr>-->
-<!--                                </thead>-->
-<!--                                <tbody>-->
-<!--                                --><?php
-//                                include 'connect.php';
-//
-//                                $email = $_SESSION['email'];
-//                                $conn = new mysqli($servername, $username, $password, $dbname);
-//                                $sql = "select * from `event`";
-//                                $result=mysqli_query($conn,$sql);
-//                                while ($row = mysqli_fetch_array($result)){
-//                                    ?>
-<!--                                    <tr>-->
-<!--                                        <td>-->
-<!--                                            --><?php //echo $row['title'];?>
-<!--                                        </td>-->
-<!--                                        <td>-->
-<!--                                            --><?php //echo $row['description'];?>
-<!--                                        </td>-->
-<!--                                        <td>-->
-<!--                                            --><?php //echo $row['fees'];?>
-<!--                                        </td>-->
-<!--                                        <td>-->
-<!--                                            <form method="get">-->
-<!--                                                --><?php
-//                                                $url = "event-page.php?id=".$row['event_id'];
-//                                                echo'<a href="'.$url.'" class="btn btn-secondary">View</a>' ?>
-<!--                                            </form>-->
-<!--                                        </td>-->
-<!--                                    </tr>-->
-<!--                                    --><?php
-//                                }
-//                                ?>
-<!--                                </tbody>-->
-<!--                            </table>-->
+
                             <form>
                                 <select name="users" onchange="showUser(this.value)">
                                     <option value="">Select a person:</option>
