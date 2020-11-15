@@ -11,6 +11,7 @@ Click to view the directory in the current Repository.
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_5">Experiment 5 - Develop simple web page using PHP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_6">Experiment 6 - Develop interactive web pages using PHP with database connectivity MYSQL</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_7">Experiment 7 - Develop XML web page using DTD, XSL</a>
+- <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_8">Experiment 8 - Implement a webpage using Ajax and PHP</a>
 - <a href="https://github.com/Heisenberg3562/WDL-2020/tree/master/Experiment_9">Experiment 9 - Hosting the website with Domain Registration Process.</a>
 - <a href="https://github.com/Heisenberg3562/Laravel-Web4Hub">Experiment 10 - Design a Web application using Laravel Framework</a>
 
@@ -107,6 +108,23 @@ To view individual pages click on the respective Link.
 ### > Experiment 7 :
 
 - <a href="https://wdl.web4hub.ml/loadxml.html">Marksheet</a>
+
+### > Experiment 8 :
+
+- <a href="https://wdl.web4hub.ml/">Home - Page</a>
+- <a href="https://wdl.web4hub.ml/registration.php">Registraton - Page</a>
+- <a href="https://wdl.web4hub.ml/all-events.php">All Events - Page</a> Contributor - <b>Adeeba Ansari</b>
+- <a href="https://wdl.web4hub.ml/contact-us.php">Contact Us - Page</a>
+- <a href="https://wdl.web4hub.ml/service-page.php">Service - Page</a>
+- <a href="https://wdl.web4hub.ml/enroll-page.php">Enroll - Page</a>
+- <a href="https://wdl.web4hub.ml/create-event.php">Create Event - Page</a>
+- <a href="https://wdl.web4hub.ml/edit-event.php">Edit Event - Page</a>
+- <a href="https://wdl.web4hub.ml/event-page.php">Event - Page</a>
+- <a href="https://wdl.web4hub.ml/faq.php">Faq - Page</a>
+- <a href="https://wdl.web4hub.ml/login.php">Login - Page</a>
+- <a href="https://wdl.web4hub.ml/about-us.php">About us - Page</a>
+- <a href="https://wdl.web4hub.ml/gallery.php">Gallery - Page</a>
+- <a href="https://wdl.web4hub.ml/features.php">Features - Page</a>
 
 ### > Experiment 9 :
 
